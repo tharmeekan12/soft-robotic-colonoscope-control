@@ -29,7 +29,7 @@ Xbox Controller → MATLAB Simulink → Arduino Controller → Servo Motors → 
 
 The joystick input is processed in **MATLAB Simulink**, transmitted to **Arduino via serial communication**, and used to control the **servo motors that manipulate the actuator cables**.
 
-![Control System Architecture](control_system_architecture.png)
+![Control System Architecture](control_system_architecture.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ The robotic structure consists of **two vertically aligned soft actuators** prov
 
 Each actuator is controlled by **three servo motors**, allowing precise manipulation of the actuator through cable-driven bending mechanisms.
 
-![Soft Actuator Design](soft_actuator_design.png)
+![Soft Actuator Design](soft_actuator_design.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Two control methodologies were developed:
 
 Control logic diagram:
 
-![Dependent Control Logic](dependent_control_logic.png)
+![Dependent Control Logic](dependent_control_logic.jpg)
 
 ---
 
