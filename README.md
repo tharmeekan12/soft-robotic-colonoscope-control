@@ -111,6 +111,14 @@ Future development may include:
 - improved actuator design
 
 ---
+## Repository Contents
+
+This repository includes the following materials related to the project:
+
+• System architecture diagrams  
+• Simulink control model  
+• Experimental control graphs  
+• Project research poster  
 
 ## Author
 **Tharmeekan Jegatheeswaran**  
