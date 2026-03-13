@@ -113,13 +113,14 @@ Future development may include:
 ---
 ## Repository Contents
 
-This repository includes the following materials related to the project:
+This repository contains key materials from the project:
 
-• System architecture diagrams  
-• Simulink control model  
-• Experimental control graphs  
-• Project research poster  
+- Control system architecture diagrams
+- MATLAB Simulink control model
+- Experimental actuator control graphs
+- Project research poster
 
+---
 ## Author
 **Tharmeekan Jegatheeswaran**  
 MSc Biomedical Engineering  
