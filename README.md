@@ -122,11 +122,11 @@ Future development may include:
 ---
 ## Repository Contents
 
-• Control system architecture and actuator design diagrams  
-• MATLAB Simulink control model  
-• Experimental actuator control results  
-• Project research poster summarizing the work  
-• Example implementation code available in the `code/` folder
+- Control system architecture and actuator design diagrams  
+- MATLAB Simulink control model  
+- Experimental actuator control results  
+- Project research poster summarizing the work  
+- Example implementation code available in the `code/` folder
 
 ---
 ## Author
