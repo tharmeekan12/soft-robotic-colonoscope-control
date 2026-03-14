@@ -18,8 +18,8 @@ Soft robotic systems provide safer interaction with biological tissues and enabl
 
 A visual summary of the research project is available below.
 
-📄 **Project Poster:**  
-[View Project Poster](./project_poster.pdf)
+📄 **View Project Poster:**  
+[project_poster.pdf](project_poster.pdf)
 
 ---
 
