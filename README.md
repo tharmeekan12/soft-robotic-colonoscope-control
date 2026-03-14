@@ -9,6 +9,15 @@ Soft robotic systems provide safer interaction with biological tissues and enabl
 
 ---
 
+## Project Poster
+
+A visual summary of the research project is available below.
+
+📄 **Project Poster:**  
+[View Project Poster](./project_poster.pdf)
+
+---
+
 ## Research Problem
 Traditional rigid robotic systems have limited flexibility and adaptability when operating in confined medical environments. Soft robotic actuators provide greater compliance and safety, but controlling multiple actuators simultaneously introduces challenges such as:
 
@@ -113,12 +122,11 @@ Future development may include:
 ---
 ## Repository Contents
 
-This repository contains key materials from the project:
-
-- Control system architecture diagrams
-- MATLAB Simulink control model
-- Experimental actuator control graphs
-- Project research poster
+• Control system architecture and actuator design diagrams  
+• MATLAB Simulink control model  
+• Experimental actuator control results  
+• Project research poster summarizing the work  
+• Example implementation code available in the `code/` folder
 
 ---
 ## Author
