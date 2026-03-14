@@ -1,5 +1,10 @@
 # Control System for a 6-DOF Soft Robotic Actuator for Medical Robotics
 
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded%20Control-blue)
+![Robotics](https://img.shields.io/badge/Field-Robotics-green)
+![Biomedical Engineering](https://img.shields.io/badge/Area-Biomedical%20Engineering-red)
+
 ## Overview
 This repository presents the research work from my MSc Biomedical Engineering project at the University of Dundee.
 
